@@ -1,7 +1,7 @@
 # Battlecode 2017
 # Team: test bot please ignore
 Battlecode bot for MIT Battlecode 2017. Team consisted of Stuart Johnson and Milo Hartsoe.  
-A post-mortem of my experiences can be found at http://www.goo.gl/0NL6Q  
+A post-mortem of my experiences can be found at http://goo.gl/0NL6QC
 
 We ranked 36 in the league running up to the qualifying tournament, and made it to the top 32 teams there.  
 
