@@ -8,7 +8,7 @@ We ranked 36 in the league running up to the qualifying tournament, and made it 
 Matches were decided in a best of three on maps unseen up until the competition. Format was double elimination bracket to ensure the sixteen best teams made it to the finals. We ended up one win away from this, which is disappointing.  
  
 ## Results
-ROUND 1: N/A
+ROUND 1: N/A  
 ROUND 2: test bot please ignore vs. 6637515 (2-0)  
 ROUND 3: test bot please ignore vs. Gibrawlster's Conquest (2-0)  
 ROUND 4: test bot please ignore vs. Volatile (2-1)  
