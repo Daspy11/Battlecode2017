@@ -1,4 +1,6 @@
 # Battlecode 2017
+Final submission can be found in src/masslumber
+
 # Team: test bot please ignore
 Battlecode bot for MIT Battlecode 2017. Team consisted of Stuart Johnson and Milo Hartsoe. Battlecode is MIT's longest running programming competition. It features a unique challenge that combines battle strategy, software engineering and artificial intelligence. In short, the objective is to write the best AI player program for the strategy game Battlecode. Anyone can participate, as long as you know how to program.
 
